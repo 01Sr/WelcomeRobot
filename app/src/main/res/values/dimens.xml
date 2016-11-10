@@ -6,7 +6,7 @@
     <dimen name="login_width">300dp</dimen>
     <dimen name="login_height">48dp</dimen>
     <dimen name="login_icon_size">48dp</dimen>
-    <dimen name="text_width">252</dimen>
+    <dimen name="text_width">252dp</dimen>
     <dimen name="text_height">48dp</dimen>
 
     <dimen name="btn_width">135dp</dimen>
